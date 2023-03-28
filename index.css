@@ -1,0 +1,9 @@
+#main{
+    height: 600px;
+    width: 700px;
+    border: 2px solid black;
+    margin: auto;
+    background:url("https://pbs.twimg.com/media/Fqz32WUaUAElnuv?format=jpg&name=large");
+    background-repeat: no-repeat;
+
+}
